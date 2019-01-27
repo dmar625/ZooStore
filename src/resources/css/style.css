@@ -14,7 +14,7 @@
 .navigation-hyperlink:hover {
     -fx-underline: false;
     -fx-text-fill: white;
-    -fx-background-color: #555;
+    -fx-background-color: #1628A1;
 }
 
 .navigation-hyperlink:focused {
