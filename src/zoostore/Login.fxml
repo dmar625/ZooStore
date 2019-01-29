@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="320.0" prefWidth="370.0" style="-fx-background-color: #0A6710;" stylesheets="@../resources/css/style.css" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="zoostore.LoginController">
+<AnchorPane id="AnchorPane" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="320.0" prefWidth="370.0" style="-fx-background-color: #11B5AA;" stylesheets="@../resources/css/style.css" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="zoostore.LoginController">
    <children>
       <ImageView fitHeight="64.0" fitWidth="128.0" layoutX="31.0" layoutY="16.0" pickOnBounds="true" preserveRatio="true">
          <image>
